@@ -9,7 +9,7 @@
 ## 🧑‍💻 Sobre Mim
 
 Sou apaixonado por tecnologia e estou construindo minha trajetória com foco no desenvolvimento web e fundamentos da computação.  
-Concluí o curso Técnico em Informática Web pelo **SENAI** e atualmente curso **Sistemas de Informação** no **CESMAC**, sempre buscando aprender novas tecnologias, boas práticas e criar projetos reais.
+Concluir o curso Técnico em Informática Web pelo **SENAI** e atualmente curso **Sistemas de Informação** no **CESMAC**, sempre buscando aprender novas tecnologias, boas práticas e criar projetos reais.
 
 ---
 
