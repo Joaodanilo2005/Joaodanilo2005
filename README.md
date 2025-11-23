@@ -1,4 +1,4 @@
-<h1 align="center">🌟 João Danilo</h1>
+<h1 align="center"> João Danilo</h1>
 
 <p align="center">
   Desenvolvedor em Formação • Técnico em Informática Web (SENAI) • Cursando Sistemas de Informação (CESMAC)
