@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">🌟 João Danilo</h1>
 
-<!--
-**Joaodanilo2005/Joaodanilo2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor em Formação • Técnico em Informática Web (SENAI) • Cursando Sistemas de Informação (CESMAC)
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre Mim
+
+Sou apaixonado por tecnologia e estou construindo minha trajetória com foco no desenvolvimento web e fundamentos da computação.  
+Concluí o curso Técnico em Informática Web pelo **SENAI** e atualmente curso **Sistemas de Informação** no **CESMAC**, sempre buscando aprender novas tecnologias, boas práticas e criar projetos reais.
+
+---
+
+## 🧩 Minha Formação
+
+- 📘 Técnico em Informática Web — **SENAI**  
+- 🎓 Cursando **Sistemas de Informação — CESMAC**
+
+---
+
+## 📚 Atualmente Estudando
+
+- Desenvolvimento Web  
+- Lógica de Programação  
+- Algoritmos  
+- Versionamento com Git  
+- Fundamentos de Sistemas de Informação  
+
+---
+
+## 🎯 Objetivo
+
+Evoluir continuamente como desenvolvedor, criar projetos práticos e ingressar de forma sólida e profissional no mercado de tecnologia.
+
+---
+
+<p align="center">
+  ✨ <strong>Obrigado por visitar meu perfil! Explore meus repositórios e projetos.</strong> ✨
+</p>
