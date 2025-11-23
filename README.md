@@ -37,5 +37,5 @@ Evoluir continuamente como desenvolvedor, criar projetos práticos e ingressar d
 ---
 
 <p align="center">
-  ✨ <strong>Obrigado por visitar meu perfil! Explore meus repositórios e projetos.</strong> ✨
+   <strong>Obrigado por visitar meu perfil! Explore meus repositórios e projetos.</strong> 
 </p>
